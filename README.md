@@ -1,8 +1,7 @@
 ![LOGO](https://github.com/pushpak2408/pushpak2408/blob/main/PUSHPAK%20JANA%20(1).png)
 <h1 align="center">Hi 👋, I'm Pushpak Jana</h1>
 <h3 align="center">A passionate Data Analyst and AI from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<img align="right" alt="coding" width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GXlmTSnupj0q7VOxptpS2du00rHVfXfOAg&s"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpak2408&label=Profile%20views&color=0e75b6&style=flat" alt="pushpak2408" /> </p>
 
 - 🌱 I’m currently learning **Python|SQL|Data Analysis|Machine Learning|Deep Learning|Data Visualization|Power Bi|**
